@@ -11,8 +11,7 @@ It is not meant to be a polished guide or a record of perfect solutions. It is m
 Depending on the project, you may find:
 
 - A basic version built with HTML, CSS, and JavaScript
-- A revised or improved version
-- A React version
+- A revised or improved version built with React and TailwindCSS
 
 ## Live Projects
 
@@ -25,8 +24,7 @@ You can browse the projects through the live interface and open different challe
 challenges/
   challenge-name/
     original/   → initial solution (HTML, CSS, JS)
-    improved/   → refactored and enhanced version
-    react/      → React implementation (optional)
+    react/      → improved React + TailwindCSS implementation
     assets/     → shared images, screenshots, and resources
 ```
 Each challenge is kept in its own folder so people can easily browse the files and compare different versions when available.
