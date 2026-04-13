@@ -4,7 +4,7 @@ function App()
 {
   return(
     <main>
-      <QRCard url={"HELLO THERE"} title={"this is a title"} info={"this is info."}></QRCard>
+      <QRCard></QRCard>
     </main>
   );
 }
