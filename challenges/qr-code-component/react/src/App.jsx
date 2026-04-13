@@ -1,8 +1,10 @@
+import QRCard from "./component/QRCard";
+
 function App()
 {
   return(
-    <main className="w-dvw h-dvh flex justify-center items-center bg-[#141414]">
-      <h1 className="text-9xl text-white font-bold">Hello, World!</h1>
+    <main>
+      <QRCard url={"HELLO THERE"} title={"this is a title"} info={"this is info."}></QRCard>
     </main>
   );
 }
